@@ -15,7 +15,7 @@ The objective is to build a simple platform to upload and view files:
 
 > Each file contains the solution to a task in the project.
 
-- [ ] []():
+- [ ] [](https://github.com/Ebube-Ochemba/alx-files_manager/blob/main/):
 
 > [package.json](./package.json): A manifest for the project dependencies. Provided by Alx.
 
