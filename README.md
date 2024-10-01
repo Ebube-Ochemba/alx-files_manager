@@ -23,4 +23,4 @@ The objective is to build a simple platform to upload and view files:
 
 > [.eslintrc.js](./.eslintrc.js): An eslint configuration file. Provided by Alx.
 
-> [test_files](): A folder of test files. Provided by Alx.
+> [test_files](./test_files/): A folder of test files. Provided by Alx.
